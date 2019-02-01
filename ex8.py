@@ -1,4 +1,4 @@
-kau=input("")
+kau=int(input())
 s=0
 for i in range(1,kau+1):
     s=s+i
