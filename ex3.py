@@ -1,7 +1,9 @@
-a=input("")
-if a in "aeiouAEIOU":
-    print(1)
+a=input()
+if (a>="a" and a<="z") or (a>="A" and a<="Z"):
+    if a in "aeiouAEIOU":
+        print("Vowel")
+    else:
+        print("Consonant")
 else:
-    print(0)
-    
-print ("Hello World!\n")
+    print("invalid")
+   
