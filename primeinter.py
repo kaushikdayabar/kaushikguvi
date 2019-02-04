@@ -7,4 +7,4 @@ for kau in range(a,b):
     		f=1
     		break
     if f==0 and kau!=1:
-    	print(kau,end=" ")
+    	print(" ",kau)
