@@ -1,6 +1,6 @@
 a,b=input().split()
-a,b=int(a)+1,int(b)
-for kau in range(a,b):
+s,b=int(a)+1,int(b)
+for kau in range(s,b):
     j,f=int(kau/2),0
     for i in range(2,j+1):
     	if kau%i==0:
