@@ -6,4 +6,4 @@ if a%2==0:
 else:
 	s=a+2
 for kau in range(s,b,2):
-	print(" ",kau)
+	print(kau," ")
