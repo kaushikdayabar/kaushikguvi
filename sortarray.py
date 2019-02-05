@@ -1,6 +1,6 @@
+n=int(input())-1
 kau=list(map(int,input().split()))
 kau.sort()
-le=len(kau)-1
-for i in range(0,le):
+for i in range(0,n):
 	print(kau[i],end=" ")
-print(kau[le])
+print(kau[n])
