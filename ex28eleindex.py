@@ -1,4 +1,4 @@
 n=int(input())
 l=input().split()
 for i in range(0,n):
-	print(l[i]," ",i)
+	print(l[i]," ",i,end="\n")
