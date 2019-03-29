@@ -1,3 +1,4 @@
+#kaushik
 kau=input();
 c=0
 for i in kau:
