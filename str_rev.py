@@ -1,2 +1,3 @@
 kau=input()
-print(kau[::-1])
+st=kau[::-1]
+print(st)
