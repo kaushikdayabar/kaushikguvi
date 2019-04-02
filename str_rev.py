@@ -1,2 +1,2 @@
-s=input()
-print(s[::-1])
+kau=input()
+print(kau[::-1])
