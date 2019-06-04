@@ -5,7 +5,6 @@ l=[]
 for i in range(0,n):
     l.append(kau[i])
 
-print(l)
 
 #odd length string leads to out of index and the last odd cant be swapped
 if(n%2):
