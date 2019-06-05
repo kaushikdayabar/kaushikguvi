@@ -9,8 +9,8 @@ if l<=1:   #prevents 0,1
     
 for i in range(l,h):
     #code to check prime
-    i=(i//2)+1  #remember this,reduces half of the loops
-    for j in range(2,i):  #for could be used as if
+    j=(i//2)+1  #remember this,reduces half of the loops
+    for j in range(2,j):  #for could be used as if
         if i%j==0:
             break
     else:
