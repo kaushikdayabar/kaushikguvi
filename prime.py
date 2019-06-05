@@ -1,11 +1,11 @@
 n=int(input())
 f=0
-j=int(n/2)
-for i in range(2,j):
-	if n%i==0:
-		f=1
-		break;
-if f==1:
-	print("no")
+if n>1:
+	for i in range(2,n):
+		if n%i==0:
+			print("no")
+			break;
+	else:
+		print("yes")
 else:
-	print("yes")
+	print("no")
