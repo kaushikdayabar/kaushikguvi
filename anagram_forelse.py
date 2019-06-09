@@ -11,7 +11,7 @@ for i in range(n):
         continue
     for j in range(le):
         if l[i][j] not in s:
-                        break #only in case of brek the else part is skipped
+                        break #only in case of break the else part is skipped
         elif s[j] not in l[i]:
             break
     else:
