@@ -1,3 +1,4 @@
+#armstong numbers within the given interval
 a,b=input().split()
 a,b=int(a),int(b)
 l=[]
