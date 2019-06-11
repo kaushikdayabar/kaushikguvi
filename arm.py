@@ -1,3 +1,4 @@
+#armstrong with power3
 kau=int(input())
 ori=kau
 s=0
