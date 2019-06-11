@@ -1,3 +1,4 @@
+#to print the retrieved string without spaces
 s=input()
 r=""  #empty string  required to prevent undefined error
 
