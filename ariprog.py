@@ -1,3 +1,4 @@
+#sum of terms of AP
 n,a,d=input().split()
 n=int(n)
 a=int(a)
