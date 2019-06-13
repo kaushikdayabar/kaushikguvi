@@ -1,3 +1,4 @@
+#guvi_player_set4
 def is_island(l,i,j):
     if l[i-1][j]==l[i][j-1]==l[i+1][j]==l[i][j+1]==0:
         return 1
