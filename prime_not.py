@@ -1,3 +1,4 @@
+#set 5 player 10
 n=int(input())
 f=0
 if n>1:
