@@ -1,3 +1,4 @@
+#set 5 player 6
 import math
 
 a=int(input())
