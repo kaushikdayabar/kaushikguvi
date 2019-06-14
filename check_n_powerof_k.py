@@ -1,3 +1,4 @@
+#set 5 player 1 
 n,k=input().split()
 n=int(n)
 k=int(k)
